@@ -1,0 +1,61 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+TestResults/
+.nuget/
+_ReSharper.*/
+packages/
+artifacts/
+PublishProfiles/
+*.user
+*.suo
+*.cache
+*.docstates
+_ReSharper.*
+nuget.exe
+*net45.csproj
+*k10.csproj
+*.psess
+*.vsp
+*.pidb
+*.userprefs
+*DS_Store
+*.ncrunchsolution
+*.*sdf
+*.ipch
+*.pdb
+*.dll
+*.nupkg
+project.lock.json
+debugSettings.json
+
+
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+/bower_components
+/tmp
+/dist
+/wwwroot
+
+# IDEs and editors
+/.idea
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+

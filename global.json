@@ -1,0 +1,18 @@
+{
+
+    "projects": [
+        "src",
+        "test",
+        "samples",    
+        "test/Common",
+        "test/Service",
+        "test/Automatic",
+        "test/Integration",
+        "wrap"
+    ],
+  "sdk": {
+    "runtime": "clr",
+    "architecture": "x86",
+    "version": "1.0.0-rc1-final"
+  }
+}
